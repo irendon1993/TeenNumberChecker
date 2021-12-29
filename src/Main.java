@@ -7,3 +7,5 @@ public class Main {
         boolean result = TeenNumberChecker.hasTeen(d1,d2,d3);
     }
 }
+
+//I'm cheating lol but I actually studied a lot of Vanilla JS today soooo
